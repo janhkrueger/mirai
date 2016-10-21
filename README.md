@@ -1,4 +1,4 @@
-# Mirai source code
+# Mirai source code (educational only)
 
 This is the source code of Mirai source which was used to attack against [Krebs On Security](https://krebsonsecurity.com/) recently. The code was released on [Hack Forums](http://hackforums.net/showthread.php?tid=5420472). Here's a post on [Krebs On Security](https://krebsonsecurity.com/2016/10/source-code-for-iot-botnet-mirai-released/).
 
